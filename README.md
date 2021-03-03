@@ -7,8 +7,8 @@ then finds and displays their octal equivalents by using a stack (octal.txt), i.
 
 I learned how stacks works and implementing a stack using linked list
 
-## Compile 
-- (javac *.java). <br>
+## How to Run
+- (javac *.java).
 - Run (java Main decimal.txt).
 - Output should be "octal.txt" . 
 
